@@ -12,3 +12,21 @@ Untracked files:
 	notas-git.md
 
 Cuando un archivo esta untracked quiere decir que Git sabe de su existencia en la carpeta del repositorio pero aun no tiene seguimiento, Git no lo incluira en ningun commit hasta que le ordenemos que lo rastree.
+
+Actualizacion del repositorio
+
+ronny@Ubu:~/Documents/actividad-6-1-primer-flujo-de-trabajo-con-git-RonnyRJ$ git st
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   cp2-estado-inicial.txt
+
+
+Untracked significa que Git sabe que el archivo existe en la carpeta pero no lo reconoce
+Stading significa que el archivo esta listo para ser incluido en elproximo commit
+
+Comando usado para pasar el archivo a stadring: git add 'cp2-estado-inicial.txt'
+
