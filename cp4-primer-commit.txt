@@ -1,0 +1,8 @@
+ronny@Ubu:~/Documents/actividad-6-1-primer-flujo-de-trabajo-con-git-RonnyRJ$ git log --oneline
+b74d576 (HEAD -> main) act1
+89119e7 act1
+bb88e92 ronaldo
+7406301 (origin/main, origin/HEAD) add deadline
+9b8acc7 Initial commit
+
+Es importante porque al escribirlos mal no se añadirian bien los repositorios basicamente no los crearia.

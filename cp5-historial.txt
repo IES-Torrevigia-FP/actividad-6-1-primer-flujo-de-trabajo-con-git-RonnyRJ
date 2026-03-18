@@ -1,0 +1,11 @@
+aab8235 Completa conceptos básicos de flujo en Git
+b74d576 act1
+89119e7 act1
+bb88e92 ronaldo
+7406301 add deadline
+9b8acc7 Initial commit
+
+Tengo 6 commits
+
+El primer commit es el primer snapshot del repositorio, es el punto de partida del historial, incluye todos los archivos que pusiste en staging antes de hacer este commit, se usa como base para los commits futuros.
+El segundo commit es el posterior al primero, incluye solo cambios nuevos omodificados desde el primer commit, nos permite ver como evoluciona el proyecto paso a paso.
