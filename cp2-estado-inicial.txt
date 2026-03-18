@@ -1,0 +1,14 @@
+ronny@Ubu:~/Documents/actividad-6-1-primer-flujo-de-trabajo-con-git-RonnyRJ$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    notas-git.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	notas-git.md
+
+Cuando un archivo esta untracked quiere decir que Git sabe de su existencia en la carpeta del repositorio pero aun no tiene seguimiento, Git no lo incluira en ningun commit hasta que le ordenemos que lo rastree.
